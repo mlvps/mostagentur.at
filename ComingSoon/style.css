@@ -1,0 +1,241 @@
+@media (min-width: 0px) and (max-width: 1919px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 14 Pro Max – 1;
+		--web-view-id: iPhone_14_Pro_Max__1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_14_Pro_Max__1 {
+		position: absolute;
+		display: block;
+		width: 430px;
+		height: 932px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 14 Pro Max – 1;
+		--web-view-id: iPhone_14_Pro_Max__1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#Gruppe_1 {
+		position: absolute;
+		width: 1143px;
+		height: 727.925px;
+		left: -356.5px;
+		top: 250.075px;
+		overflow: visible;
+	}
+	#Rechteck_1_ {
+		fill: rgba(237,237,237,1);
+	}
+	.Rechteck_1_ {
+		position: absolute;
+		overflow: visible;
+		width: 1143px;
+		height: 330px;
+		left: 0px;
+		top: 397.925px;
+	}
+	#MOST__Partner_GmbH_ {
+		left: 395.5px;
+		top: 120.796px;
+		position: absolute;
+		overflow: visible;
+		width: 353px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: AktivGrotesk-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 32px;
+		color: rgba(0,0,0,1);
+	}
+	#LOGOSVG_ {
+		position: absolute;
+		width: 91.689px;
+		height: 87.796px;
+		left: 525.656px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Pfad_1_ {
+		fill: rgba(39,39,39,1);
+	}
+	.Pfad_1_ {
+		overflow: visible;
+		position: absolute;
+		width: 38.012px;
+		height: 37.357px;
+		left: 53.639px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Pfad_2_ {
+		fill: rgba(39,39,39,1);
+	}
+	.Pfad_2_ {
+		overflow: visible;
+		position: absolute;
+		width: 38.059px;
+		height: 37.357px;
+		left: 0px;
+		top: 0.122px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Pfad_3_ {
+		fill: rgba(39,39,39,1);
+	}
+	.Pfad_3_ {
+		overflow: visible;
+		position: absolute;
+		width: 38.049px;
+		height: 37.357px;
+		left: 53.639px;
+		top: 50.308px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Pfad_4_ {
+		fill: rgba(39,39,39,1);
+	}
+	.Pfad_4_ {
+		overflow: visible;
+		position: absolute;
+		width: 38.012px;
+		height: 37.357px;
+		left: 0.047px;
+		top: 50.439px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Pfad_5_ {
+		fill: rgba(39,39,39,1);
+	}
+	.Pfad_5_ {
+		overflow: visible;
+		position: absolute;
+		width: 71.991px;
+		height: 68.2px;
+		left: 9.844px;
+		top: 9.788px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Pfad_6_ {
+		fill: rgba(255,255,255,1);
+	}
+	.Pfad_6_ {
+		overflow: visible;
+		position: absolute;
+		width: 25.416px;
+		height: 19.783px;
+		left: 21.149px;
+		top: 21.795px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Pfad_7_ba {
+		fill: rgba(255,255,255,1);
+	}
+	.Pfad_7_ba {
+		overflow: visible;
+		position: absolute;
+		width: 22.46px;
+		height: 21.496px;
+		left: 48.116px;
+		top: 20.809px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Pfad_8_bb {
+		fill: rgba(255,255,255,1);
+	}
+	.Pfad_8_bb {
+		overflow: visible;
+		position: absolute;
+		width: 19.579px;
+		height: 21.66px;
+		left: 24.084px;
+		top: 45.532px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Pfad_9_bc {
+		fill: rgba(255,255,255,1);
+	}
+	.Pfad_9_bc {
+		overflow: visible;
+		position: absolute;
+		width: 21.031px;
+		height: 21.093px;
+		left: 48.676px;
+		top: 45.592px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Pfad_10_bd {
+		fill: rgba(237,28,36,1);
+	}
+	.Pfad_10_bd {
+		overflow: visible;
+		position: absolute;
+		width: 4.325px;
+		height: 4.321px;
+		left: 71.017px;
+		top: 16.486px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Pfad_11_be {
+		fill: rgba(41,41,41,1);
+	}
+	.Pfad_11_be {
+		overflow: visible;
+		position: absolute;
+		width: 6.756px;
+		height: 8.691px;
+		left: 55.974px;
+		top: 27.22px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Unsere_Seite_befindet_sich_im__bf {
+		left: 393.5px;
+		top: 167.925px;
+		position: absolute;
+		overflow: visible;
+		width: 357px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: AktivGrotesk-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(0,0,0,1);
+	}
+	#StuhlJPG_bg {
+		position: absolute;
+		width: 77px;
+		height: 113px;
+		left: 533px;
+		top: 449.925px;
+		overflow: visible;
+	}
+	#Copyright__2024_MOST__Partner__bh {
+		left: 68px;
+		top: 835px;
+		position: absolute;
+		overflow: visible;
+		width: 295px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: AktivGrotesk-Bold;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+}
